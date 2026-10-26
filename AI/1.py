@@ -1,5 +1,8 @@
-#  Implement Breadth First Search (for 8 puzzle problem).
-
+"""
+1. Implement Breadth First Search (for 8 puzzle problem). 
+NAME: ANDERSON JOHNY GEORGE
+ENROLLNO. : 92600584078
+"""
 # Goal state 
 goal = (1, 2, 3, 
         4, 5, 6,
