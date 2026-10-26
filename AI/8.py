@@ -1,3 +1,8 @@
+"""
+8. Write a program to solve N-Queens problem.  
+NAME: ANDERSON JOHNY GEORGE
+ENROLLNO. : 92600584078
+"""
 #  no queens can be in the same row.
 #  no queens can be in the same column
 #  no queens can be in the same diagonal.
