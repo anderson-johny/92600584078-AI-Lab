@@ -1,5 +1,8 @@
-# Implement Breadth First Search (for Water Jug problem). 
-
+"""
+2. Implement Breadth First Search (for Water Jug problem).  
+NAME: ANDERSON JOHNY GEORGE
+ENROLLNO. : 92600584078
+"""
 CAP_A = 4 
 CAP_B = 3 
 GOAL = 2 
