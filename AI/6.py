@@ -1,4 +1,8 @@
-#  Write a program to implement Single Player Game (Using Heuristic Function). 
+"""
+6. Write a program to implement Single Player Game (Using Heuristic Function). 
+NAME: ANDERSON JOHNY GEORGE
+ENROLLNO. : 92600584078
+"""
 
 goal = (1, 2, 3, 
         4, 5, 6, 
