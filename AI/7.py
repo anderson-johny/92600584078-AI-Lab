@@ -1,4 +1,8 @@
-# 
+"""
+7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).  
+NAME: ANDERSON JOHNY GEORGE
+ENROLLNO. : 92600584078
+"""
 # display board
 def display(board):
     print()
